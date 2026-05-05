@@ -90,8 +90,8 @@ author:
   avatar           : "profile.png"
 #  bio              : "Your biography for the left-hand sidebar"
 #  location         : "Location"
-  bio              : "Master student at Beijing Institute of Technology"
-  location         : "Beijng, China"
+  bio              : "PhD student at The Hong Kong University of Science and Technology"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : # ""
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -112,8 +112,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/%E5%AE%87%E7%BF%94-%E8%81%82-8a15b216a/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0001-4197-1079"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
