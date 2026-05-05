@@ -64,10 +64,14 @@ Service and leadership
 
 Selected Awards
 ======
-* National Scholarship, 2019
-* National Scholarship, 2018
+* National Scholarship, Ministry of Education of the People’s Republic of China, 2018, 2019
+* First Class Scholarship, Beijing Institute of Technology, 2018, 2019, 2020
+* Honorable Mention, Mathematical Contest in Modeling (MCM), 2018
+* Outstanding Reviewer Award, EACL 2026, 2026
 
 Services
 ======
-* Reviewer:
-  * TASLP, TNNLS, EMNLP'23, ACL ARR'23/24
+* Reviewer, IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)
+* Reviewer, IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+* Reviewer, EMNLP 2023
+* Reviewer, ACL Rolling Review (ARR) 2023--2026
